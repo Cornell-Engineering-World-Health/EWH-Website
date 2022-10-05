@@ -104,6 +104,12 @@ export default class Contact extends React.Component {
           <div className="contact-paragraph">
             {pageData.collaborator_paragraph}
           </div>
+          <div className="contact-title">Support Us</div>
+          <div className="contact-paragraph">
+            <a href="https://givingday.cornell.edu/campaigns/cu-engineering-world-health-2022">
+              Make a gift to Cornell EWH
+            </a>
+          </div>
 
           <div className="contacts-container">
             <img
