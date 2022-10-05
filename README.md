@@ -115,3 +115,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 See https://facebook.github.io/create-react-app/docs/advanced-configuration for advanced config info.
 
+### Advanced Deployment
+
+The website is setup to be deployed from http://ewh-site.firebaseapp.com but is reachable via proxy at https://ewh.engineering.cornell.edu/. For additional questions on proxy deployment or if the SSL certificate expires, please contact Manuel Calimlim.
+
