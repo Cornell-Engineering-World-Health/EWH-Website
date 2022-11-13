@@ -756,7 +756,8 @@
             "major": "Computer Science",
             "projects": [
                 "health-friend",
-                "glasses"
+                "glasses",
+                "akafuba"
             ],
             "team": [
                 "software"
@@ -775,7 +776,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
