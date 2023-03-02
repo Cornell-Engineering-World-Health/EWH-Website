@@ -27,7 +27,7 @@
             ],
             "team": [],
             "isAlumni": false,
-            "isLead": true
+            "isLead": false
         },
         {
             "name": "Alison Landry",
@@ -512,7 +512,7 @@
                 "electrical"
             ],
             "isAlumni": false,
-            "isLead": false
+            "isLead": true
         },
         {
             "name": "Rebecca Hasser",
@@ -565,7 +565,7 @@
                 "software"
             ],
             "isAlumni": false,
-            "isLead": false,
+            "isLead": true,
             "orientation": "0 -15px"
         },
         {
@@ -579,7 +579,7 @@
                 "electrical"
             ],
             "isAlumni": false,
-            "isLead": true
+            "isLead": false
         },
         {
             "name": "Sam Reveiz",
@@ -1555,7 +1555,7 @@
                 "integrative-design"
             ],
             "isAlumni": false,
-            "isLead": false
+            "isLead": true
         },
         {
             "name": "Alexandra Friedman",
@@ -1581,6 +1581,195 @@
             ],
             "isAlumni": false,
             "isLead": false
+        },
+        {
+            "name": "Daniel Han",
+            "year": 2025,
+            "major": "Information Science",
+            "projects": [],
+            "team": [
+                "business"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Nancy Zheng",
+            "year": 2026,
+            "major": "Information Science",
+            "projects": [],
+            "team": [
+                "business"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Mae Ryan",
+            "year": 2025,
+            "major": "Biology & Society",
+            "projects": [],
+            "team": [
+                "business"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Michelle Dai",
+            "year": 2025,
+            "major": "Information Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Hyunmin Ko",
+            "year": 2025,
+            "major": "Biomedical Engineering",
+            "projects": [],
+            "team": [
+                "integrative-design"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Addy Chan",
+            "year": 2026,
+            "major": "Biomedical Engineering",
+            "projects": [],
+            "team": [
+                "integrative-design"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Mandy Chen",
+            "year": 2026,
+            "major": "Biomedical Engineering",
+            "projects": [],
+            "team": [
+                "integrative-design"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Charlie Wright",
+            "year": 2025,
+            "major": "Mechanical Engineering",
+            "projects": [],
+            "team": [
+                "integrative-design"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Mia Moon",
+            "year": 2025,
+            "major": "Information Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Joseph Agaba",
+            "year": 2024,
+            "major": "Information Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Alyson Dang",
+            "year": 2026,
+            "major": "Biomedical Engineering",
+            "projects": [],
+            "team": [
+                "electrical"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Jonathan Colaco",
+            "year": 2025,
+            "major": "Biomedical Engineering",
+            "projects": [],
+            "team": [
+                "electrical"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Ayaan Bargeer",
+            "year": 2026,
+            "major": "Computer Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Tianran Song",
+            "year": 2026,
+            "major": "Computer Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Shriya Bansal",
+            "year": 2025,
+            "major": "Computer Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Reva Agrawal",
+            "year": 2026,
+            "major": "Computer Science",
+            "projects": [],
+            "team": [
+                "software"
+            ],
+            "isAlumni": false,
+            "isLead": false
+        },
+        {
+            "name": "Nadya Lumy",
+            "year": 2026,
+            "major": "Computer Science",
+            "projects": [],
+            "team": [
+                "electrical"
+            ],
+            "isAlumni": false,
+            "isLead": false
         }
+
+
     ]
 }
