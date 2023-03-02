@@ -762,8 +762,8 @@
             "team": [
                 "software"
             ],
-            "isAlumni": false,
-            "isLead": true
+            "isAlumni": true,
+            "isLead": false
         },
         {
             "name": "Tori DiStefano",
@@ -1500,7 +1500,7 @@
             "team": [
                 "software"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
