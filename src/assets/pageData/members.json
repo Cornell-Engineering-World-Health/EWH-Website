@@ -1,6 +1,18 @@
 {
     "members": [
         {
+            "name": "Nick Colaw",
+            "year": 2024,
+            "major": "Biomedical Engineering",
+            "projects": [
+                "calmer",
+                "glasses"
+            ],
+            "team": [],
+            "isAlumni": false,
+            "isLead": true
+        },
+        {
             "name": "Lane Fitzsimmons",
             "year": 2022,
             "major": "Information Science & Biological Sciences",
@@ -526,7 +538,7 @@
             "team": [
                 "electrical"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -1450,18 +1462,6 @@
             ],
             "isAlumni": true,
             "isLead": false
-        },
-        {
-            "name": "Nick Colaw",
-            "year": 2024,
-            "major": "Biomedical Engineering",
-            "projects": [
-                "calmer",
-                "glasses"
-            ],
-            "team": [],
-            "isAlumni": false,
-            "isLead": true
         },
         {
             "name": "Justine Burke",
