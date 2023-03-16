@@ -25,7 +25,7 @@
                 "calmer",
                 "glasses"
             ],
-            "team": [],
+            "team": ["integrative-design"],
             "isAlumni": false,
             "isLead": false
         },
@@ -41,7 +41,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -52,7 +52,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -140,7 +140,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -183,7 +183,7 @@
             "team": [
                 "integrative-design"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -199,7 +199,7 @@
             "team": [
                 "integrative-design"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -256,7 +256,7 @@
             "team": [
                 "electrical"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -370,7 +370,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": true
         },
         {
@@ -396,7 +396,7 @@
             "team": [
                 "electrical"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -423,7 +423,7 @@
             "team": [
                 "integrative-design"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false,
             "orientation": "0 0px"
         },
@@ -497,7 +497,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false,
             "orientation": "0 -20px"
         },
@@ -691,7 +691,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false,
             "orientation": "0 -20px"
         },
@@ -706,7 +706,7 @@
             "team": [
                 "business"
             ],
-            "isAlumni": false,
+            "isAlumni": true,
             "isLead": false
         },
         {
@@ -1459,9 +1459,7 @@
                 "calmer",
                 "glasses"
             ],
-            "team": [
-                "integrative-design"
-            ],
+            "team": [],
             "isAlumni": false,
             "isLead": true
         },
