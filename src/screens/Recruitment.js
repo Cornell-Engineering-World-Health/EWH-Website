@@ -37,7 +37,7 @@ export default class Recruitment extends React.Component {
         <div className="recruitment-container">
           <div className="contact-title">Recruitment</div>
           <div className={recruitmentParagraph}>
-            We are now accepting applications for the Fall 2022 semester! Please click
+            We are now accepting applications for the Fall 2023 semester! Please click
             <a href="https://www.engineering.cornell.edu/cornell-engineering-student-project-teams-join-a-team"> here </a>
             for more information. All students, regardless of graduation year, will be recruited according to the First-Year recruitment timeline.
 
@@ -49,19 +49,18 @@ export default class Recruitment extends React.Component {
               <div className="contact-title">Key Dates </div>
               <ul>
                 <li>
-                  Thursday, 9/1: Project Team Fest |
-                  Duffield Atrium, 4-7 PM
+                  Thursday, 9/14: Info Session 1 |
+                  <a href="https://cornell.zoom.us/j/94177589571?pwd=Mm9qZVNqSWxLcjNxaXNCaVpxNkthQT09"> Zoom</a>, 5-6 PM
                 </li>
                 <li>
-                  Tuesday, 9/6: Info Session 1 |
-                  <a href="https://cornell.zoom.us/j/95138691967?pwd=aUdhanBHMEdDZVdnR0tyaE9YSnVZdz09"> Zoom</a>, 5-6 PM
+                  Tuesday, 9/19: Info Session 2 |
+                  <a href="https://cornell.zoom.us/j/94177589571?pwd=Mm9qZVNqSWxLcjNxaXNCaVpxNkthQT09"> Zoom</a>, 5-6 PM
                 </li>
                 <li>
-                  Thursday, 9/8: Info Session 2 |
-                  <a href="https://cornell.zoom.us/j/95138691967?pwd=aUdhanBHMEdDZVdnR0tyaE9YSnVZdz09"> Zoom</a>, 5-6 PM
+                  Tuesday, 9/26: Info Session 3 |
+                  <a href="https://cornell.zoom.us/j/94177589571?pwd=Mm9qZVNqSWxLcjNxaXNCaVpxNkthQT09"> Zoom</a>, 5-6 PM
                 </li>
-                <li>Thursday, 9/29: Applications Due |
-                  Freshmen + Upperclassmen, 11:59 PM
+                <li>Thursday, 9/28:<a href="https://www.engineering.cornell.edu/cornell-engineering-student-project-teams-join-a-team"> Applications </a> Due for Freshmen and Sophmore Transfers @ 11:59 PM
                 </li>
               </ul>
               Note: All applications will be reviewed at the same time. All majors are encouraged to apply!
