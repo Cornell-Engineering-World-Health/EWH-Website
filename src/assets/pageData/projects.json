@@ -1,25 +1,5 @@
 {
-    "projects": [
-        {
-            "id": "prosthetics",
-            "title": "2ft Prosthetics",
-            "subteams": [
-            "integrative-design"
-            ],
-            "info": "The Integrative Design Subteam is currently partnering with 2ft Prosthetics, an organization committed to providing clinics and non-profit organizations with affordable prosthetic legs for use in the United States and in developing nations. These inexpensive prosthetic legs are built out of durable plastics that can be used in wet and muddy conditions without causing damage to the device. The Integrative Design Subteam will be CAD-ing the current prosthetic prototype and conducting mechanical testing on the foot, hoping to make the foot more dynamic.",
-            "isActive": true,
-            "collaborators": []
-        },
-        {
-            "id": "alt-bionics",
-            "title": "Alt-Bionics",
-            "subteams": [
-            "electrical"
-            ],
-            "info": "Under the common goal of transforming the world through health technologies, the Electrical team has partnered with Alt-Bionics to build a cost effective, highly accessible, and non-invasive human-computer interface for controlling a prosthetic hand, which is a pioneering AI project in the booming industry of medical devices.",
-            "isActive": true,
-            "collaborators": []
-        },       
+    "projects": [ 
         {
             "id": "invictus",
             "title": "Invictus BCI Collaboration",
@@ -304,7 +284,7 @@
             "subteams": [
                 "business"
             ],
-            "isActive": false,
+            "isActive": true,
             "info": "Cornell Engineering World Health partnered with MedLife International, a nonprofit organization that runs many mobile clinics. Members from EWH traveled to Lima, Peru for eight days, serving local patients and completing several projects while there. ",
             "info_long": "Cornell Engineering World Health has actively participated in various outreach activities in order to integrate with local communities and find inspiration for future projects. A few years ago, members of the team traveled to Lima, Peru for eight days where they partnered with MedLife International, a nonprofit organization that runs many mobile clinics. During the trip, the team shadowed health care workers and worked alongside them to serve local patients. They also completed several projects, including building a staircase to help facilitate transportation for the community. Through this eye-opening experience, our members not only grew as individuals through their first-hand exposure to the implementation of global health initiatives, but also helped bring back ideas and stories that guide the future progression of the team. As our team continues to grow, we hope we can continuously build upon these valuable first hand experiences by creating more opportunities to interact with the world.\n Quotes from our alumni: \n “This experience helped shed light on the actual lifestyle of the people we design products for, along with providing an insider perspective on how a developing community lives and the unique region-specific illnesses it faces.“ - Justin \n “The experience of visiting and seeing the low resource environment puts context into the work we do back at Cornell. We can put faces to the people we [were] trying to serve; it gave me extra motivation to work and develop a solution having met these people in need.“ - Paul \n“There [was] beautiful, filtered water running in huge pipes through many poor, water-borne-disease-prone communities surrounding Lima, but it only carries the clean water into the rich areas, not stopping for the poor. It made me realize that engineering has to work in conjunction with people and their governments in order to have any effect. Seeing that blatant inefficiency caused by policies has definitely changed the way I will approach engineering problems in the future.“ -Brecken ",
             "collaborators": [
