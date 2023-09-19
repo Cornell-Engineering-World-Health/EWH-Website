@@ -1,6 +1,26 @@
 {
     "projects": [
         {
+            "id": "prosthetics",
+            "title": "2ft Prosthetics",
+            "subteams": [
+            "integrative-design"
+            ],
+            "info": "The Integrative Design Subteam is currently partnering with 2ft Prosthetics, an organization committed to providing clinics and non-profit organizations with affordable prosthetic legs for use in the United States and in developing nations. These inexpensive prosthetic legs are built out of durable plastics that can be used in wet and muddy conditions without causing damage to the device. The Integrative Design Subteam will be CAD-ing the current prosthetic prototype and conducting mechanical testing on the foot, hoping to make the foot more dynamic.",
+            "isActive": true,
+            "collaborators": []
+        },
+        {
+            "id": "alt-bionics",
+            "title": "Alt-Bionics",
+            "subteams": [
+            "electrical"
+            ],
+            "info": "Under the common goal of transforming the world through health technologies, the Electrical team has partnered with Alt-Bionics to build a cost effective, highly accessible, and non-invasive human-computer interface for controlling a prosthetic hand, which is a pioneering AI project in the booming industry of medical devices.",
+            "isActive": true,
+            "collaborators": []
+        },       
+        {
             "id": "invictus",
             "title": "Invictus BCI Collaboration",
             "subteams": [
@@ -328,5 +348,6 @@
             "collaborators": [],
             "year_completed": 2015
         }
+        
     ]
 }
