@@ -58,7 +58,7 @@ The site is currently deployed to Google Firebase.
 
 #### If logged in to the Firebase CLI already: 
 1. Run `yarn build` to build current version
-2. Run `firebase deploy --project ewh-site` to deploy to Google Firebase
+2. Run `sudo firebase deploy --project ewh-site` to deploy to Google Firebase
 3. Double check that ewh.engineering.cornell.edu has been updated 
 
 #### If not logged in on your computer:

@@ -37,12 +37,11 @@ export default class Recruitment extends React.Component {
         <div className="recruitment-container">
           <div className="contact-title">Recruitment</div>
           <div className={recruitmentParagraph}>
-            We are now accepting applications for the Fall 2023 semester! Please click
+            We are now accepting Freshman and Sophomore Transfer applications for the Fall 2023 semester! Please click
             <a href="https://www.engineering.cornell.edu/cornell-engineering-student-project-teams-join-a-team"> here </a>
-            for more information. All students, regardless of graduation year, will be recruited according to the First-Year recruitment timeline.
+            for more information.
 
-
-            Sign up for our recruitment listserv <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5PnHEoXjibb_OkUywHxrli5kiL23cG6RsuHtJc3D4rzJ8aQ/viewform"> here </a>!
+            Sign up for our recruitment listserv <a href="https://forms.gle/2qsRt4ogRwsgTb8GA"> here!</a>
 
 
             <div className="recruitment-container">
@@ -50,11 +49,11 @@ export default class Recruitment extends React.Component {
               <ul>
                 <li>
                   Thursday, 9/14: Info Session 1 |
-                  <a href="https://cornell.zoom.us/j/94177589571?pwd=Mm9qZVNqSWxLcjNxaXNCaVpxNkthQT09"> Zoom</a>, 5-6 PM
+                  <a href="https://cornell.zoom.us/j/94177589571?pwd=Mm9qZVNqSWxLcjNxaXNCaVpxNkthQT09"> Zoom</a>, 7-8 PM
                 </li>
                 <li>
                   Tuesday, 9/19: Info Session 2 |
-                  <a href="https://cornell.zoom.us/j/94177589571?pwd=Mm9qZVNqSWxLcjNxaXNCaVpxNkthQT09"> Zoom</a>, 5-6 PM
+                  Hollister 206, 5-6 PM
                 </li>
                 <li>
                   Tuesday, 9/26: Info Session 3 |
